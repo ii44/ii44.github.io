@@ -1,0 +1,62 @@
+body{
+  margin-top : 20px;
+  margin-bottom : 20px;
+
+  margin:0;
+}
+ a {
+   color:black;
+   text-decoration: none;
+ }
+
+ h2{
+   font-size:14px;
+   font-weight: bold;
+   margin: 0px;
+   padding: 20px;
+   display:block;
+   width:150px
+ }
+
+ ul{
+    font-size:14px;
+    margin: 0;
+    padding:20px;
+    display:block;
+    width:150px;
+}
+
+#hover {
+  color: red;
+}
+
+#grid{
+  display: grid;
+  grid-template-columns: 200px 1fr;
+}
+
+#text1{
+  font-style: italic;
+
+}
+#article{
+  display:block;
+  margin:auto;
+}
+
+#point_r{
+  color: red;
+}
+#contact{
+  font-weight: bold;
+  margin: 17px 100px 17px;
+}
+#contact_under{
+  margin: 17px 100px 17px;
+}
+
+#box1{
+  visibility: hidden;
+  width: 100px;
+  height: 50px;
+  background-color: red;
